@@ -1,0 +1,26 @@
+<main class="container my-3">
+    <div class="row">
+        <div class="col px-0">
+            <div class="alert alert-danger" role="alert">
+                <h4 class="alert-heading">Encuentra estos modelos y más</h4>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="card-columns my-3">
+            <div *ngFor="let ropa of ropas" class="card">
+                <img src="{{ ropa.image }}" class="card-img-top" alt="{{ ropa.nombre }}">
+                <div class="card-body">
+                    <h5 class="card-title">{{ ropa.nombre }}</h5>
+                    <p class="card-text">{{ ropa.description }}</p>
+                </div>
+                <div class="px-3 my-2">
+                    <a href="#" class=" col btn btn-outline-primary">Ver más ...</a>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">{{ ropa.fecha }}</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
