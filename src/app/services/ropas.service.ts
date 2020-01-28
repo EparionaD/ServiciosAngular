@@ -10,76 +10,89 @@ export class RopasService {
             id: '1',
             image: 'assets/img/blusa.jpg',
             nombre: 'Blusa',
-            description: 'Loremsdasdads',
-            fecha: '12-12-2019'
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada est ac eros feugiat, vel aliquam metus ornare. Nam eu purus congue, commodo mi ut, mattis nibh. In hac habitasse platea dictumst. Donec convallis aliquam venenatis. Nullam at tellus nec libero aliquet suscipit et gravida mauris. Cras sed tempus augue. Vivamus massa erat, dignissim vitae nunc nec, feugiat pretium augue. Maecenas non lectus nisi. Proin eget risus lectus. ',
+            fecha: '12-12-2019',
+            fabrica: 'assets/img/asc.png'
         },
         {
             id: '2',
             image: 'assets/img/camisa.jpg',
             nombre: 'Camisa',
-            description: 'Loremsdasdads',
-            fecha: '12-12-2019'
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada est ac eros feugiat, vel aliquam metus ornare. Nam eu purus congue, commodo mi ut, mattis nibh. In hac habitasse platea dictumst. Donec convallis aliquam venenatis. Nullam at tellus nec libero aliquet suscipit et gravida mauris. Cras sed tempus augue. Vivamus massa erat, dignissim vitae nunc nec, feugiat pretium augue. Maecenas non lectus nisi. Proin eget risus lectus. ',
+            fecha: '12-12-2019',
+            fabrica: 'assets/img/asc.png'
         },
         {
             id: '3',
             image: 'assets/img/falda.jpg',
             nombre: 'Falda',
-            description: 'Loremsdasdads',
-            fecha: '12-12-2019'
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada est ac eros feugiat, vel aliquam metus ornare. Nam eu purus congue, commodo mi ut, mattis nibh. In hac habitasse platea dictumst. Donec convallis aliquam venenatis. Nullam at tellus nec libero aliquet suscipit et gravida mauris. Cras sed tempus augue. Vivamus massa erat, dignissim vitae nunc nec, feugiat pretium augue. Maecenas non lectus nisi. Proin eget risus lectus. ',
+            fecha: '12-12-2019',
+            fabrica: 'assets/img/asc.png'
         },
         {
             id: '4',
             image: 'assets/img/pantalon.jpg',
             nombre: 'Pantalon',
-            description: 'Loremsdasdads',
-            fecha: '12-12-2019'
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada est ac eros feugiat, vel aliquam metus ornare. Nam eu purus congue, commodo mi ut, mattis nibh. In hac habitasse platea dictumst. Donec convallis aliquam venenatis. Nullam at tellus nec libero aliquet suscipit et gravida mauris. Cras sed tempus augue. Vivamus massa erat, dignissim vitae nunc nec, feugiat pretium augue. Maecenas non lectus nisi. Proin eget risus lectus. ',
+            fecha: '12-12-2019',
+            fabrica: 'assets/img/vicky.jpg'
         },
         {
             id: '5',
             image: 'assets/img/polera.jpg',
             nombre: 'Polera',
-            description: 'Loremsdasdads',
-            fecha: '12-12-2019'
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada est ac eros feugiat, vel aliquam metus ornare. Nam eu purus congue, commodo mi ut, mattis nibh. In hac habitasse platea dictumst. Donec convallis aliquam venenatis. Nullam at tellus nec libero aliquet suscipit et gravida mauris. Cras sed tempus augue. Vivamus massa erat, dignissim vitae nunc nec, feugiat pretium augue. Maecenas non lectus nisi. Proin eget risus lectus. ',
+            fecha: '12-12-2019',
+            fabrica: 'assets/img/vicky.jpg'
         },
         {
             id: '6',
             image: 'assets/img/polera1.jpg',
             nombre: 'Polera 1',
-            description: 'Loremsdasdads',
-            fecha: '12-12-2019'
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada est ac eros feugiat, vel aliquam metus ornare. Nam eu purus congue, commodo mi ut, mattis nibh. In hac habitasse platea dictumst. Donec convallis aliquam venenatis. Nullam at tellus nec libero aliquet suscipit et gravida mauris. Cras sed tempus augue. Vivamus massa erat, dignissim vitae nunc nec, feugiat pretium augue. Maecenas non lectus nisi. Proin eget risus lectus. ',
+            fecha: '12-12-2019',
+            fabrica: 'assets/img/vicky.jpg'
         },
         {
             id: '7',
             image: 'assets/img/polo.jpg',
             nombre: 'Polo',
-            description: 'Loremsdasdads',
-            fecha: '12-12-2019'
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada est ac eros feugiat, vel aliquam metus ornare. Nam eu purus congue, commodo mi ut, mattis nibh. In hac habitasse platea dictumst. Donec convallis aliquam venenatis. Nullam at tellus nec libero aliquet suscipit et gravida mauris. Cras sed tempus augue. Vivamus massa erat, dignissim vitae nunc nec, feugiat pretium augue. Maecenas non lectus nisi. Proin eget risus lectus. s',
+            fecha: '12-12-2019',
+            fabrica: 'assets/img/vicky.jpg'
         },
         {
             id: '8',
             image: 'assets/img/short.jpg',
             nombre: 'Short',
-            description: 'Loremsdasdads',
-            fecha: '12-12-2019'
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada est ac eros feugiat, vel aliquam metus ornare. Nam eu purus congue, commodo mi ut, mattis nibh. In hac habitasse platea dictumst. Donec convallis aliquam venenatis. Nullam at tellus nec libero aliquet suscipit et gravida mauris. Cras sed tempus augue. Vivamus massa erat, dignissim vitae nunc nec, feugiat pretium augue. Maecenas non lectus nisi. Proin eget risus lectus. ',
+            fecha: '12-12-2019',
+            fabrica: 'assets/img/asc.png'
         },
         {
             id: '9',
             image: 'assets/img/vestido.jpg',
             nombre: 'Vestido',
-            description: 'Loremsdasdads',
-            fecha: '12-12-2019'
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada est ac eros feugiat, vel aliquam metus ornare. Nam eu purus congue, commodo mi ut, mattis nibh. In hac habitasse platea dictumst. Donec convallis aliquam venenatis. Nullam at tellus nec libero aliquet suscipit et gravida mauris. Cras sed tempus augue. Vivamus massa erat, dignissim vitae nunc nec, feugiat pretium augue. Maecenas non lectus nisi. Proin eget risus lectus. ',
+            fecha: '12-12-2019',
+            fabrica: 'assets/img/asc.jpg'
         },
         {
             id: '10',
             image: 'assets/img/zapatilla.jpg',
             nombre: 'Zapatilla',
-            description: 'Loremsdasdads',
-            fecha: '12-12-2019'
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada est ac eros feugiat, vel aliquam metus ornare. Nam eu purus congue, commodo mi ut, mattis nibh. In hac habitasse platea dictumst. Donec convallis aliquam venenatis. Nullam at tellus nec libero aliquet suscipit et gravida mauris. Cras sed tempus augue. Vivamus massa erat, dignissim vitae nunc nec, feugiat pretium augue. Maecenas non lectus nisi. Proin eget risus lectus. ',
+            fecha: '12-12-2019',
+            fabrica: 'assets/img/asc.png'
         }
     ]
     constructor() { }
 
     getRopas(){
         return this.ropas;
+    }
+    getDetalle(i:number){
+        return this.ropas[i];
     }
 }
