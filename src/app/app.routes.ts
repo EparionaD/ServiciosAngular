@@ -4,6 +4,7 @@ import { RopasComponent } from './components/ropas/ropas.component';
 import { AboutComponent } from './components/about/about.component';
 import { NotfoundComponent } from './components/notfound/notfound.component';
 import { DetallesComponent } from './components/detalles/detalles.component';
+import { BuscarComponent } from './components/buscar/buscar.component';
 
 const rutas : Routes = [
     { path: 'inicio', component: HomeComponent },
@@ -11,6 +12,7 @@ const rutas : Routes = [
     { path: 'ropas', component: RopasComponent},
     { path: 'about', component: AboutComponent },
     { path: 'detalles/:id', component: DetallesComponent },
+    { path: 'buscar/:palabra', component: BuscarComponent },
 ];
 
 

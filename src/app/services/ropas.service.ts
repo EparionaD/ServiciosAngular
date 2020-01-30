@@ -95,4 +95,18 @@ export class RopasService {
     getDetalle(i:number){
         return this.ropas[i];
     }
+    getBuscar(palabra){
+        let encontrado:string[] = [];
+        this.ropas.forEach(element => {
+            //console.log(element.nombre);
+            //console.log(palabra);
+            if ((element.nombre).toLowerCase() === palabra.toLowerCase()) {
+                let a1 = element;
+                //console.log(a1);
+                encontrado.push(a1);
+            }
+        });
+        return encontrado;
+        //console.log(encontrado);
+    }
 }
